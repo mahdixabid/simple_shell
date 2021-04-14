@@ -26,6 +26,8 @@ To run in non-interactive mode: `echo "ls -l | ./hsh`
 ------------
 
 
+> ###  EXAMPLES 🖇
+
 ##### Example  1:
 ###### 1. List Files using ls with no option1.
 ls with no option list files and directories in bare format where we won’t be able to view details like file types, size, modified date and time, permission and links etc.
