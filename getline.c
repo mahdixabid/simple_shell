@@ -3,7 +3,6 @@
  * _getline - function that used to read a string or a line
  * @string: string to be printed
  * @size: size of string
- * 
  * @bytes_read: reader
  * Return: 0
  */
