@@ -61,6 +61,7 @@ total 20
 
 We have written an [article](https://www.linkedin.com/post/edit/6787079741284388864/ "article") in which we deepen the internal processes within the shell by typing the command "ls -l *.c".
 ### Contact Us 👥 
+2730@holbertonschool.com
+
 2686@holbertonschool.com
 
-2730@holbertonschool.com
