@@ -28,8 +28,8 @@ To run in non-interactive mode: `echo "ls -l | ./hsh`
 ###### 1. List Files using ls with no option1.
 ls with no option list files and directories in bare format where we won’t be able to view details like file types, size, modified date and time, permission and links etc.
 ```shell
-    $ ls
-    0-read_textfile.c  1-create_file.c  2-append_text_to_file.c  holberton.h  README.md
+$ ls
+0-read_textfile.c  1-create_file.c  2-append_text_to_file.c  holberton.h  README.md
 ```
 ##### Example 2:
 ###### 2 List Files With option –l
@@ -62,4 +62,5 @@ total 20
 We have written an [article](https://www.linkedin.com/post/edit/6787079741284388864/ "article") in which we deepen the internal processes within the shell by typing the command "ls -l *.c".
 ### Contact Us 👥 
 2686@holbertonschool.com
+
 2730@holbertonschool.com
