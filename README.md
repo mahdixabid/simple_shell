@@ -10,9 +10,8 @@ simple shell is a UNIX command interpreter that replicates core functionalities 
 
 ##### Concept of the project 📢
 1. How to work in team
-2. How to apply the vardic function
-3. How Simple Shell works
-4. how to use git in team setting
+2. How Simple Shell works
+3. how to use git in team setting
 
 
 ### Installation 🌀
