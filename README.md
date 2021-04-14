@@ -20,7 +20,7 @@ Clone this repo:    ` git clone https://github.com/mahdixabid/simple_shell`
 
 Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
 
-To run interactively: `./hsh`
+To run interactively: `./hsh` 
 
 To run in non-interactive mode: `echo "ls -l | ./hsh`
 
