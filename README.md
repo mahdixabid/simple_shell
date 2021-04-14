@@ -14,7 +14,8 @@ simple shell is a UNIX command interpreter that replicates core functionalities 
 3. how to use git in team setting
 
 
-### Installation 🌀
+> ### Installation 🌀
+
 Clone this repo:    ` git clone https://github.com/mahdixabid/simple_shell`
 
 Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
