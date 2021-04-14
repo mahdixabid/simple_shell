@@ -27,7 +27,7 @@ To run in non-interactive mode: `echo "ls -l | ./hsh`
 ------------
 
 
-> ###  EXAMPLES 🖇
+> ###  EXAMPLES 🖇 
 
 ##### Example  1:
 ###### 1. List Files using ls with no option1.
