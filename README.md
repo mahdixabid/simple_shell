@@ -36,7 +36,7 @@ ls with no option list files and directories in bare format where we won’t be 
 $ ls
 0-read_textfile.c  1-create_file.c  2-append_text_to_file.c  holberton.h  README.md
 ```
-##### Example 2:
+##### Example 2: 
 ###### 2 List Files With option –l
 Here, ls -l (-l is character not one) shows file or directory, size, modified date and time, file or folder name and owner of file and its permission.
 ```shell
