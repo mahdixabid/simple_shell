@@ -1,4 +1,4 @@
-> # Description 📋
+> # Description 📋 
 
 simple shell is a UNIX command interpreter that replicates core functionalities of the sh shell. This project was developed as part of the third month curriculum at Holberton School
 
