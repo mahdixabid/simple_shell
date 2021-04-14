@@ -1,0 +1,44 @@
+.TH simple_shell manpage "14 april 2021" "version 1.0"
+.SH NAME
+.B Simple_Shell
+.Nd Command line interpreter.     
+.SH SYNOPSIS
+Custom project of Shell
+.SH DESCRIPTION
+simple shell is a UNIX command interpreter that replicates core functionalities of the sh shell. 
+This project was developed as part of the third month curriculum at Holberton School
+.SH EXEMPELS
+Ls with no option list files and directories in bare format where we won’t be able to view details like file types,
+ size, modified date and time, permission and links etc.
+.br
+$ ls
+.br
+0-read_textfile.c  1-create_file.c  2-append_text_to_file.c  holberton.h  README.md
+.br
+Here, Ls -l (-l is character not one) shows file or directory, size, modified date and time, 
+file or folder name and owner of file and its permission.
+.br
+$ ls -l
+.br
+total 20
+.br
+-rw-rw-r-- 1 yuri yuri 640 Apr 14 10:01 0-read_textfile.c
+.br
+-rw-rw-r-- 1 yuri yuri 617 Apr 14 10:01 1-create_file.c
+.br
+-rw-rw-r-- 1 yuri yuri 695 Apr 14 10:01 2-append_text_to_file.c
+.br
+-rw-rw-r-- 1 yuri yuri 357 Apr 14 10:01 holberton.h
+.br
+-rw-rw-r-- 1 yuri yuri 172 Apr 14 10:01 README.md
+.br
+
+
+
+
+.SH BUGS
+Unfinished, Contact mahdiabid158@gmail.com or omar.yahia4444@gmail.com  for any complaints.
+
+
+.SH AUTHOR
+OMAR YAHIA | MAHDi ABiD
