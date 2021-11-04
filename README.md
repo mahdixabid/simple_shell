@@ -10,9 +10,12 @@ simple shell is a UNIX command interpreter that replicates core functionalities 
 2. How Simple Shell works
 3. how to use git in team setting
 > ### Installation 🌀
-Clone this repo: ` git clone https://github.com/mahdixabid/simple_shell`
+Clone this repo:    ` git clone https://github.com/mahdixabid/simple_shell`
+<br>
 Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
+<br>
 To run interactively: `./hsh`
+<br>
 To run in non-interactive mode: `echo "ls -l | ./hsh`
 ------------
 > ###  EXAMPLES 🖇  
