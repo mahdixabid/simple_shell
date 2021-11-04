@@ -41,8 +41,8 @@ total 20
 ```
 ------------
 #### AUTHORS 🖋
-- [Omar Yahia](https://github.com/omaryahia4/ "Omar Yahia")
-- [MAHDi ABiD](github.com/mahdixabid "MAHDi ABiD")
+- <a href="https://www.github.com/omaryahia4" title="Omar Yahia">Omar Yahia</a>
+- <a href="https://www.github.com/mahdixabid" title="MAHDi ABiD">MAHDi ABiD</a>
 ------------
 ### Annotations  📡
 We have written an [article](https://www.linkedin.com/post/edit/6787079741284388864/ "article") in which we deepen the internal processes within the shell by typing the command "ls -l *.c".
